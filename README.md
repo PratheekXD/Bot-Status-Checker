@@ -29,3 +29,5 @@
  
 ### REPL
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@dashezup/generate-pyrogram-session-string)
+
+?style=for-the-badge&logo=appveyor
