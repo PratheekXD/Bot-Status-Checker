@@ -29,5 +29,3 @@
  
 ### REPL
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@dashezup/generate-pyrogram-session-string)
-
-[![TELEGRAM](https://img.shields.io/badge/repl.it-telegram-bluegreen)](https://t.me/pratheek06)
