@@ -32,6 +32,4 @@
 
 ## Support
 
-Channel :- [Cupid Bots](https://t.me/Cupid_Bots)
-
-Owner :- [PRATHEEK](https://t.me/pratheek06)
+**Owner** :- [PRATHEEK](https://t.me/pratheek06)
