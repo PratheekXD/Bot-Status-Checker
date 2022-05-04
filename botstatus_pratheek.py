@@ -23,7 +23,7 @@ async def main_pratheek():
                 GET_CHANNEL_OR_GROUP = await app.get_chat(int(CHANNEL_OR_GROUP_ID))
                 CHANNEL_OR_GROUP_NAME = GET_CHANNEL_OR_GROUP.title
                 CHANNEL_OR_GROUP_TYPE = GET_CHANNEL_OR_GROUP.type
-                xxx_pratheek = f"📊 𝙇𝙄𝙑𝙀 𝘽𝙊𝙏 𝙎𝙏𝘼𝙏𝙐𝙎\n\n**💬 {CHANNEL_OR_GROUP_TYPE}**: {CHANNEL_OR_GROUP_NAME}"
+                xxx_pratheek = f"📊 𝗟𝗜𝗩𝗘 𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦\n\n**💬 {CHANNEL_OR_GROUP_TYPE}**: {CHANNEL_OR_GROUP_NAME}"
                 for bot in BOT_LIST:
                     try:
                         yyy_pratheek = await app.send_message(bot, "/start")
