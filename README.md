@@ -6,7 +6,7 @@
 ## Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
-3. `SESSION_NAME` : A valid Pyrogram session name
+3. `SESSION_STRING` : A valid Pyrogram session name
 4. `BOT_LIST` : Your bot username list without '@' (Example: pratheek1bot pratheek2bot pratheek3bot
 5. `CHANNEL_OR_GROUP_ID` : Your channel's or group's Telegram id (Example: -1001246808642)
 6. `MESSAGE_ID` : Telegram id of message from your channel or group (Example: 10)
@@ -27,7 +27,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PratheekXD/Bot_Status_Checker)
  
-### REPL
+### Pyrogram String Session
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@dashezup/generate-pyrogram-session-string)
 
 ## Support
