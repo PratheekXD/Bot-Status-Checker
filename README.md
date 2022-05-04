@@ -1,4 +1,4 @@
-<h1 align= center>Bots Status Checker</h1>
+<h1 align= center>BOTS STATUS CHECKER</h1>
 <h3 align = center>Easy & powerful bot to check if your all Telegram bots are working or not. This bot status bot updates every 45 minutes & runs for 24x7 hours.</h3>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
