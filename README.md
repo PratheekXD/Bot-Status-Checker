@@ -27,8 +27,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PratheekXD/Bot_Status_Checker)
  
-### Pyrogram String Session
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@dashezup/generate-pyrogram-session-string)
+
+## 🖇 Generating Pyrogram String Session
+
+- Generate a Pyrogram String Session via [Replit](https://replit.com/@dashezup/generate-pyrogram-session-string)
 
 ## Support
 
