@@ -21,7 +21,7 @@ async def main_pratheek():
     async with app:
             while True:
                 print("Checking...")
-                xxx_pratheek = f"📈 | 𝗟𝗜𝗩𝗘 𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦"
+                xxx_pratheek = f"📊 | 𝗟𝗜𝗩𝗘 𝗕𝗢𝗧 𝗦𝗧𝗔𝗧𝗨𝗦"
                 for bot in BOT_LIST:
                     try:
                         yyy_pratheek = await app.send_message(bot, "/start")
