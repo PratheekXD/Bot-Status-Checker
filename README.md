@@ -26,7 +26,7 @@
 
 ## Having Issue In Deploying Do Contact me
 
-[![PratheekxD](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/pratheek06)
+[![PratheekxD](https://img.shields.io/static/v1?label=Join&message=Pratheek%20xD&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/pratheek06)
  
 ## 🚀 Heroku Deployment
 
@@ -46,7 +46,7 @@ Reach out to the maintainer at one of the following places:
 
 ## 📑 Acknowledgement
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who helped in this Project:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Pratheek](https://github.com/PratheekXD)
