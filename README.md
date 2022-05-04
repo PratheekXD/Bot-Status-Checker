@@ -8,7 +8,8 @@
 ### Before deploying, please have a look towards all available config vars
 
 ```console
-   📝 Config Vars
+📝 Config Vars:
+
 1. API_ID : Telegram API_ID, get it from my.telegram.org/apps
 2. API_HASH : Telegram API_ID, get it from my.telegram.org/apps
 3. SESSION_STRING : A valid Pyrogram session name
@@ -23,9 +24,9 @@
 <img src="https://telegra.ph/file/dd7e94f283ae2ca8aa613.jpg">
 <p>
 
-## ANY ISSUES CONTACT HERE
+## Having Issue In Deploying Do Contact me
 
-[Pratheek](https://t.me/pratheek06)
+[![PratheekxD](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/pratheek06)
  
 ## 🚀 Heroku Deployment
 
