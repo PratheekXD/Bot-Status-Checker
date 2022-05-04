@@ -36,3 +36,10 @@ Reach out to the maintainer at one of the following places:
 
 - Contact options listed on [this GitHub profile](https://github.com/PratheekXD)
 - [Telegram Support](https://t.me/Shizuka_Support)
+
+## 📑 Acknowledgement
+
+Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
+- [Pratheek](https://github.com/PratheekXD)
