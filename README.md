@@ -8,7 +8,7 @@
 ### Before deploying, please have a look towards all available config vars
 
 ```console
-## 📝 Config Vars
+   📝 Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
 3. `SESSION_STRING` : A valid Pyrogram session name
