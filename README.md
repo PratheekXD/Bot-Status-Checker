@@ -20,10 +20,6 @@
 8. TIME_ZONE: Your time zone (Example: Asia/Kolkata)
 ```
 
-<p align="center">
-<img src="https://telegra.ph/file/dd7e94f283ae2ca8aa613.jpg">
-<p>
-
 ## Having Issue In Deploying Do Contact me
 
 [![PratheekxD](https://img.shields.io/static/v1?label=Contact&message=Pratheek%20xD&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/pratheek06)
