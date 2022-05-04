@@ -5,7 +5,7 @@
 
 # ⚡️ Getting Started
 
-### Before deploying Yukki Music Bot , please have a look towards all available config vars
+### Before deploying, please have a look towards all available config vars
 
 ## 📝 Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
