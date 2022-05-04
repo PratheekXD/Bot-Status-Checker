@@ -7,6 +7,7 @@
 
 ### Before deploying, please have a look towards all available config vars
 
+```console
 ## 📝 Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
@@ -16,6 +17,7 @@
 6. `MESSAGE_ID` : Telegram id of message from your channel or group (Example: 10)
 7. `BOT_ADMIN_IDS` : Bot admin(s) id(s) (Example: 1357907531 2468097531 3579864213) - Not Required!
 8. `TIME_ZONE`: Your time zone (Example: Asia/Kolkata)
+```
 
 <p align="center">
 <img src="https://telegra.ph/file/dd7e94f283ae2ca8aa613.jpg">
