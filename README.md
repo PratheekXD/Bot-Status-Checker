@@ -3,7 +3,11 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 
-## Config Vars
+# ⚡️ Getting Started
+
+### Before deploying Yukki Music Bot , please have a look towards all available config vars
+
+## 📝 Config Vars
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
 2. `API_HASH` : Telegram API_ID, get it from my.telegram.org/apps
 3. `SESSION_STRING` : A valid Pyrogram session name
