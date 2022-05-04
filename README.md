@@ -30,6 +30,9 @@
 
 - Generate a Pyrogram String Session via [Replit](https://replit.com/@dashezup/generate-pyrogram-session-string)
 
-## Support
+## 🏷 Support
 
-**Owner** :- [PRATHEEK](https://t.me/pratheek06)
+Reach out to the maintainer at one of the following places:
+
+- Contact options listed on [this GitHub profile](https://github.com/PratheekXD)
+- [Telegram Support](https://t.me/Shizuka_Support)
