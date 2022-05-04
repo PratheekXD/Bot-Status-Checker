@@ -26,7 +26,7 @@
 
 ## Having Issue In Deploying Do Contact me
 
-[![PratheekxD](https://img.shields.io/static/v1?label=Join&message=Pratheek%20xD&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/pratheek06)
+[![PratheekxD](https://img.shields.io/static/v1?label=Contact&message=Pratheek%20xD&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/pratheek06)
  
 ## 🚀 Heroku Deployment
 
