@@ -3,6 +3,8 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 
+# ⭐ Give us a star and fork if you like our project <3
+
 # ⚡️ Getting Started
 
 ### Before deploying, please have a look towards all available config vars
